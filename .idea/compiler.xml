@@ -20,7 +20,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="LibClient" target="1.5" />
+      <module name="LibClient" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>
